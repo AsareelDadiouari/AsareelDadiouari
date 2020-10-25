@@ -22,13 +22,14 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Code-reactJs-informational?style=flat&logo=ReactJs&logoColor=white&color=4581E5)
+
 
 - 🔭 I have worked with
 
-![React](https://blog.savoirfairelinux.com/en-ca/wp-content/uploads/sites/2/2017/12/640px-React-icon.svg.png)
-![Nodejs](https://res.cloudinary.com/practicaldev/image/fetch/s--R1ZXqHXc--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/0io62juyrtrjmw5xzg4u.png)
 ![Monogoose](https://github.com/MarioTerron/logo-images/blob/master/logos/mongoose.png)
 ![Angular](https://github.com/angular/angular/raw/master/aio/src/assets/images/logos/angular/angular.png)
+![Express](https://camo.githubusercontent.com/fc61dcbdb7a6e49d3adecc12194b24ab20dfa25b/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67)
 
 
 
