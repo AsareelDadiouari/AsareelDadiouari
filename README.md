@@ -22,7 +22,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4581E5)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=C++&logoColor=white&color=4581E5)
-![](https://img.shields.io/badge/Code-reactJs-informational?style=flat&logo=ReactJs&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Code-ReactJs-informational?style=flat&logo=ReactJs&logoColor=white&color=4581E5)
+![](https://img.shields.io/badge/Code-VueJs-informational?style=flat&logo=ReactJs&logoColor=white&color=4581E5)
 
 
 - 🔭 I have worked with
