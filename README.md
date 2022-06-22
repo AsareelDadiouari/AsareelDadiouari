@@ -22,5 +22,5 @@
 
 
 <a href="https://github.com/AsareelDadiouari/Polyquiz-Angular">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsareelDadiouari&repo=Polyquiz-Angular&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AsareelDadiouari&repo=PS7-PolyVilleActive&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
